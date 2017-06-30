@@ -41,3 +41,8 @@ NSString *fileSize = [TZHDownloadManager getFileCacheSize];
 调用方法:
 
 [TZHDownloadManager deleteFileFromCache];
+
+
+联系我:
+-------
+如果你有什么问题或者好的建议欢迎与我联系 我的QQ: 734754688
