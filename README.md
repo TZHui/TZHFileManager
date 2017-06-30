@@ -31,6 +31,7 @@ P.S. 如我要做到点击下图的查看附件然后跳转到附件列表,就�
 
 NSString *fileSize = [TZHDownloadManager getFileCacheSize];
 
+1.删除所下载的文件:
 
 //删除文件
 
