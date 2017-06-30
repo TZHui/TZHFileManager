@@ -15,7 +15,7 @@
 
 P.S. 如我要做到点击下图的查看附件然后跳转到附件列表,就在查看附件按钮的点击事件里写步骤4的代码即可
 
-![动图.gif](http://upload-images.jianshu.io/upload_images/4034316-34161d3ac1035530.gif?imageMogr2/auto-orient/strip)
+![image](http://upload-images.jianshu.io/upload_images/4034316-34161d3ac1035530.gif?imageMogr2/auto-orient/strip)
 
 
 新增文件占内存数值显示 和删除已下载的文件 两处功能:
