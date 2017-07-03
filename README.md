@@ -13,7 +13,7 @@
 
 4.在要跳转到文件列表控制器的地方,创建TZHDownloadViewController控制器对象.并把请求网络数据所获得的文件模型数组赋值给TZHDownloadViewController对象的filesArray数组.
 
-P.S. 如我要做到点击下图的查看附件然后跳转到附件列表,就在查看附件按钮的点击事件里写步骤4的代码即可
+P.S. 如我要做到点击查看附件然后跳转到附件列表,就在查看附件按钮的点击事件里写步骤4的代码即可
 
 
 
@@ -30,8 +30,7 @@ P.S. 如我要做到点击下图的查看附件然后跳转到附件列表,就�
 
 NSString *fileSize = [TZHDownloadManager getFileCacheSize];
 
-1.删除所下载的文件:
-
+2.删除所下载的文件:
 //删除文件
 
 +(void)deleteFileFromCache;
